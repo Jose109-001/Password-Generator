@@ -1,3 +1,5 @@
+![This page says length Between 8 to 128](https://user-images.githubusercontent.com/77666204/111581763-f87fa780-880d-11eb-804b-f4ed8a98f8de.png)
+![Would you like to use lowercase characters](https://user-images.githubusercontent.com/77666204/111581878-25cc5580-880e-11eb-86b0-8d503fdd20ef.png)
 # 03 JavaScript: Password Generator
 
 ## Your Task
