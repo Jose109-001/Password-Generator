@@ -1,3 +1,7 @@
+![Would you like to use uppercase characters](https://user-images.githubusercontent.com/77666204/111581983-498f9b80-880e-11eb-8e3a-e13f3a5f1549.png)
+![Would you like to use numerical characters](https://user-images.githubusercontent.com/77666204/111582019-54e2c700-880e-11eb-976e-2b3d56f9ebca.png)
+![Would you like to use special  characters](https://user-images.githubusercontent.com/77666204/111582046-5dd39880-880e-11eb-905d-b8e1a02318a5.png)
+![The Password has copied to your clipboard](https://user-images.githubusercontent.com/77666204/111582062-662bd380-880e-11eb-85ce-d727ca737fe1.png)
 ![This page says length Between 8 to 128](https://user-images.githubusercontent.com/77666204/111581763-f87fa780-880d-11eb-804b-f4ed8a98f8de.png)
 ![Would you like to use lowercase characters](https://user-images.githubusercontent.com/77666204/111581878-25cc5580-880e-11eb-86b0-8d503fdd20ef.png)
 # 03 JavaScript: Password Generator
